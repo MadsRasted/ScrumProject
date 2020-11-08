@@ -3,6 +3,7 @@ package com.example.demo.Model;
 public class Employee {
 
     //Attributes
+    private int age;
     private String name;
     private int id;
 
